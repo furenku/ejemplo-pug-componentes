@@ -1,0 +1,14 @@
+@import './reset';
+
+
+@import '../../components/general/main-header/main-header.scss';
+
+
+/* Proveedor */
+@import '../../components/proveedor/proveedor-lista/proveedor-lista.scss';
+@import '../../components/proveedor/proveedor-resumen/proveedor-resumen.scss';
+@import '../../components/proveedor/proveedor-resumen/proveedor-detalle.scss';
+
+
+/* Servicios */
+@import '../../components/servicio/servicio-lista/servicio-lista.scss';
